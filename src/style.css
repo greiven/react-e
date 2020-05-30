@@ -1,0 +1,55 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(#212222,rgb(53, 52, 52) ); 
+  background-repeat:no-repeat;
+  height:400vh;
+  width:100%;
+  font-family: Arial, Helvetica, sans-serif;
+}
+h4 {
+text-transform: uppercase;
+padding:10px 0;
+text-align:center;
+margin-bottom: 10px;
+color:rgb(66, 28, 13);
+}
+.App {
+background:rgb(255, 255, 255);
+padding:20px 0;
+border-radius: 1px;
+}
+.paddingbtn {
+margin-left: 10px;
+}
+.deletbtn{
+margin-top: 20px;
+}
+.btn-one{
+width: 250px;
+height: 70px;
+padding: 5px;
+background-color: black;
+background-color: #343f35;
+margin: 10px;
+margin-left: 40px;
+color: #ffffff;
+border-radius: 10px;
+border: solid #2f3030 1px;
+font-size: 18px;
+
+
+}
+
+
+.p1{
+font-size: 22px;
+/* background: #343f35; */
+color: rgb(73, 107, 74);
+font-weight: bolder;
+text-decoration: underline;
+
+}
+.row{
+width: 100%;
+}
