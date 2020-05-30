@@ -3,9 +3,9 @@
 # Descrption:
 This is a React app that lets you view and sort employees, this was created with React, Bootstrap, JavaScript.
  
-Deploy app:  https://greiven.github.io/employee-d/
+Deploy app:  https://greiven.github.io/react-e/
 
-Github: https://github.com/greiven/employee-d
+
 
 
 # npm start
